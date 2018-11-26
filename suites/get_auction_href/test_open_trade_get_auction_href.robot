@@ -144,3 +144,7 @@ If skipped create tender
 	${auction_participate_href}  Run Keyword And Expect Error  *  Run Keywords
 	...  Натиснути кнопку "До аукціону"
 	...  AND  Отримати URL для участі в аукціоні
+
+
+
+
